@@ -1,1 +1,1 @@
-# code-netflix
+This project is a Netflix-inspired webpage created using only HTML, CSS, and JavaScript. The page mimics the layout and design of Netflix's landing page, showcasing my skills in front-end development. The focus was on using responsive design to ensure the webpage looks great on various screen sizes, and adding interactive elements with JavaScript.
